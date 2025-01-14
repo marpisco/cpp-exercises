@@ -11,6 +11,11 @@ I'm sharing some exercises I've done on GitHub in order to allow you to learn a 
 ## Table of Contents
 All of the exercises are within different folders, and what you're (or what I were) supposed to achieve is all in the **README.md** file present within that folder.
 
+## How should I begin?
+If you want to become a beginner and are a student, CLion or Dev-C++ will definelitely help you get started.
+
+Because (as a class) we didn't want to install software (since Dev-C++ broke), we used OnlineGDB.com to get started. <i>Don't forget to select C++ as your language!</i>
+
 ## License
 TBA
 
