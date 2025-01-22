@@ -2,4 +2,4 @@
 Ask a user for two numbers, and sum them.
 
 ### Requires:
-`int` variable
+`int` variables
