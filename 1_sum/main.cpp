@@ -1,9 +1,3 @@
-/*
-    This is a simple program that sums two numbers.
-    The user is asked to enter two numbers and the program
-    prints the result of the sum.
-*/
-
 #include <iostream>
 using namespace std;
 
