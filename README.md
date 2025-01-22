@@ -16,8 +16,8 @@ If you want to become a beginner and are a student, CLion or Dev-C++ will define
 
 Because (as a class) we didn't want to install software (since Dev-C++ broke), we used OnlineGDB.com to get started. <i>Don't forget to select C++ as your language!</i>
 
-## License
-TBA
+## Licence
+Check [LICENCE](LICENCE) for the current licence for this repository.
 
 ## Credits
 I've coded all of these projects myself. Any suggestions on what to add, or better ways to achieve stuff from the exercises?
