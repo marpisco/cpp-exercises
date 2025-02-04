@@ -5,4 +5,4 @@ Ask the user for base, height, and calculate the area.
 `base*height=area`
 
 ### Requires:
-`int` variables
+`double` or `float` variables
