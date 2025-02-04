@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
     int num1, num2, num3;
     cout << "Bem-vindo ao programa de multiplicacao!" << endl;
     cout << "Welcome to the multiplication program!" << endl;

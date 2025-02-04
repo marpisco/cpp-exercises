@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
     int base, height;
     cout << "Let's calculate the area of the square plot!" << endl;
     cout << "Enter the base: " << endl;
